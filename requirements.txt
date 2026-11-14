@@ -1,1 +1,5 @@
-yfinance, pandas, numpy, pytz
+yfinance
+pandas
+numpy
+pytz
+ccxt
